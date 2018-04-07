@@ -282,21 +282,6 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\values-id_values-id.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\196003ad29ead2c3ee0fd70b4d807bf4\\res\\values-id\\values-id.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,226,351,465,564,631,699,758,829,900,997,1070,1143,1227,1330,1394,1461",
-                        "endColumns": "170,124,113,98,66,67,58,70,70,96,72,72,83,102,63,66,138",
-                        "endOffsets": "221,346,460,559,626,694,753,824,895,992,1065,1138,1222,1325,1389,1456,1595"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\values-ms_values-ms.arsc.flat",
             "map": [
                 {
@@ -353,6 +338,21 @@
             ]
         },
         {
+            "outputFile": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\values-id_values-id.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\196003ad29ead2c3ee0fd70b4d807bf4\\res\\values-id\\values-id.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,226,351,465,564,631,699,758,829,900,997,1070,1143,1227,1330,1394,1461",
+                        "endColumns": "170,124,113,98,66,67,58,70,70,96,72,72,83,102,63,66,138",
+                        "endOffsets": "221,346,460,559,626,694,753,824,895,992,1065,1138,1222,1325,1389,1456,1595"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\values-ne_values-ne.arsc.flat",
             "map": [
                 {
@@ -387,6 +387,21 @@
                         "startOffsets": "105,222,412,548,667,897,1035,1392,1631,1751,1946,2085,2292,2474,2570,2672",
                         "endColumns": "116,189,135,118,229,137,133,238,119,194,138,206,181,95,101,120",
                         "endOffsets": "217,407,543,662,892,1030,1164,1626,1746,1941,2080,2287,2469,2565,2667,2788"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\values-night-v8_values-night-v8.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\4d5e898b8c767da6f01a71494ca7d95e\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "120,204,288,384,486,588,682"
                     }
                 }
             ]
@@ -443,21 +458,6 @@
                         "startOffsets": "2064,2174,2369,2498,2610,2823,2954,3293,3520,3628,3821,3948,4154,4326,4426,4517",
                         "endColumns": "109,194,128,111,212,130,133,226,107,192,126,205,171,99,90,116",
                         "endOffsets": "2169,2364,2493,2605,2818,2949,3083,3515,3623,3816,3943,4149,4321,4421,4512,4629"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\values-night-v8_values-night-v8.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\4d5e898b8c767da6f01a71494ca7d95e\\res\\values-night-v8\\values-night-v8.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,125,209,293,389,491,593",
-                        "endColumns": "69,83,83,95,101,101,93",
-                        "endOffsets": "120,204,288,384,486,588,682"
                     }
                 }
             ]

@@ -143,7 +143,7 @@ public class Object3DData {
         return this;
     }
 
-    int getDrawMode() {
+    public int getDrawMode() {
         return drawMode;
     }
 
@@ -166,23 +166,23 @@ public class Object3DData {
         this.textureData = textureData;
     }
 
-    float[] getPosition() {
+    public float[] getPosition() {
         return position;
     }
 
-    float getPositionX() {
+    public float getPositionX() {
         return position != null ? position[0] : 0;
     }
 
-    float getPositionY() {
+    public float getPositionY() {
         return position != null ? position[1] : 0;
     }
 
-    float getPositionZ() {
+    public float getPositionZ() {
         return position != null ? position[2] : 0;
     }
 
-    float[] getRotation() {
+    public float[] getRotation() {
         return rotation;
     }
 
@@ -194,7 +194,7 @@ public class Object3DData {
         return rotation[1];
     }
 
-    float getRotationZ() {
+    public float getRotationZ() {
         return rotation[2];
     }
 
@@ -203,19 +203,19 @@ public class Object3DData {
         updateModelMatrix();
     }
 
-    float[] getScale() {
+    public float[] getScale() {
         return scale;
     }
 
-    float getScaleX() {
+    public float getScaleX() {
         return getScale()[0];
     }
 
-    float getScaleY() {
+    public float getScaleY() {
         return getScale()[1];
     }
 
-    float getScaleZ() {
+    public float getScaleZ() {
         return getScale()[2];
     }
 
@@ -233,7 +233,7 @@ public class Object3DData {
         Matrix.translateM(modelMatrix, 0, getPositionX(), getPositionY(), getPositionZ());
     }
 
-    IntBuffer getDrawOrder() {
+    public IntBuffer getDrawOrder() {
         return drawOrderBuffer;
     }
 
@@ -253,7 +253,7 @@ public class Object3DData {
         return assetsDir;
     }
 
-    boolean isDrawUsingArrays() {
+    public boolean isDrawUsingArrays() {
         return drawUsingArrays;
     }
 
@@ -265,7 +265,7 @@ public class Object3DData {
         this.drawUsingArrays = true;
     }
 
-    FloatBuffer getNormals() {
+    public FloatBuffer getNormals() {
         return vertexNormalsBuffer;
     }
 
@@ -287,11 +287,11 @@ public class Object3DData {
 
     // -------------------- Buffers ---------------------- //
 
-    FloatBuffer getVertexBuffer() {
+    public FloatBuffer getVertexBuffer() {
         return vertexBuffer;
     }
 
-    FloatBuffer getVertexArrayBuffer() {
+    public FloatBuffer getVertexArrayBuffer() {
         return vertexArrayBuffer;
     }
 
@@ -299,7 +299,7 @@ public class Object3DData {
         this.vertexArrayBuffer = vertexArrayBuffer;
     }
 
-    FloatBuffer getVertexNormalsArrayBuffer() {
+    public FloatBuffer getVertexNormalsArrayBuffer() {
         return vertexNormalsArrayBuffer;
     }
 
@@ -307,19 +307,19 @@ public class Object3DData {
         this.vertexNormalsArrayBuffer = vertexNormalsArrayBuffer;
     }
 
-    FloatBuffer getTextureCoordsArrayBuffer() {
+    public FloatBuffer getTextureCoordsArrayBuffer() {
         return textureCoordsArrayBuffer;
     }
 
-    void setTextureCoordsArrayBuffer(FloatBuffer textureCoordsArrayBuffer) {
+    public void setTextureCoordsArrayBuffer(FloatBuffer textureCoordsArrayBuffer) {
         this.textureCoordsArrayBuffer = textureCoordsArrayBuffer;
     }
 
-    List<int[]> getDrawModeList() {
+    public List<int[]> getDrawModeList() {
         return drawModeList;
     }
 
-    FloatBuffer getVertexColorsArrayBuffer() {
+    public FloatBuffer getVertexColorsArrayBuffer() {
         return vertexColorsArrayBuffer;
     }
 

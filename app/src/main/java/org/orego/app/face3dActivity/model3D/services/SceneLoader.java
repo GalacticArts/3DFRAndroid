@@ -25,7 +25,7 @@ import java.util.List;
 
 public final class SceneLoader {
 
-    protected final ModelActivity parent;
+    protected ModelActivity parent;
 
     private List<Object3DData> objects = new ArrayList<>();
 
@@ -45,7 +45,7 @@ public final class SceneLoader {
 
     private final Object3DData lightPoint = Object3DBuilder.buildPoint(lightPosition).setId("light");
 
-    public SceneLoader(ModelActivity main) {
+    public void installActivity(ModelActivity main) {
         this.parent = main;
     }
 

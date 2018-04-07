@@ -9,7 +9,7 @@ import org.orego.app.face3dActivity.model3D.entities.Camera;
 import org.orego.app.face3dActivity.model3D.model.Object3D;
 import org.orego.app.face3dActivity.model3D.model.Object3DBuilder;
 import org.orego.app.face3dActivity.model3D.model.Object3DData;
-import org.orego.app.face3dActivity.model3D.model.Object3DImpl;
+import org.orego.app.face3dActivity.model3D.model.object3DImplementation.AbstractObject3D;
 import org.orego.app.face3dActivity.model3D.services.SceneLoader;
 import org.orego.app.face3dActivity.model3D.util.GLUtil;
 
@@ -20,6 +20,10 @@ import java.util.Map;
 
 import javax.microedition.khronos.egl.EGLConfig;
 import javax.microedition.khronos.opengles.GL10;
+
+/**
+ * Start drawing 3d objects
+ */
 
 public class ModelRenderer implements GLSurfaceView.Renderer {
 
@@ -122,7 +126,7 @@ public class ModelRenderer implements GLSurfaceView.Renderer {
         // draw light
         if (scene.isDrawLighting()) {
 
-            Object3DImpl lightBulbDrawer = (Object3DImpl) drawer.getPointDrawer();
+            AbstractObject3D lightBulbDrawer = (AbstractObject3D) drawer.getPointDrawer();
 
             float[] lightModelViewMatrix = lightBulbDrawer.getMvMatrix(lightBulbDrawer.getMMatrix(scene.getLightBulb()), modelViewMatrix);
 

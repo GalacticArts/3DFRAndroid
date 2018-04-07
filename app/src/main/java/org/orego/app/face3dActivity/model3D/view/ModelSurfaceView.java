@@ -7,6 +7,10 @@ import android.view.MotionEvent;
 import org.orego.app.face3dActivity.model3D.controller.TouchController;
 
 
+/**
+ *  Scene where keeps our 3d objects
+ */
+
 @SuppressLint("ViewConstructor")
 public final class ModelSurfaceView extends GLSurfaceView {
 

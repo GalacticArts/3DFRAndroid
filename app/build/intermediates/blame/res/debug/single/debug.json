@@ -8,24 +8,24 @@
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\4d5e898b8c767da6f01a71494ca7d95e\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f6a3_1f3fb.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f6a3_1f3fb.png"
-    },
-    {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_dark_pressed.9.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\1e39f0ccf6977547bf55bf864f98bb12\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f6a3_1f3fb.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f6a3_1f3fb.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f401.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f401.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\4d5e898b8c767da6f01a71494ca7d95e\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
-    },
-    {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\4d5e898b8c767da6f01a71494ca7d95e\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\4d5e898b8c767da6f01a71494ca7d95e\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f44a.png.flat",
@@ -48,36 +48,36 @@
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f44c_1f3fe.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_26f5.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_26f5.png"
-    },
-    {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f539.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f539.png"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_26f5.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_26f5.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_messenger_button_send_round_shadow.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\196003ad29ead2c3ee0fd70b4d807bf4\\res\\drawable-xxhdpi-v4\\messenger_button_send_round_shadow.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_messenger_bubble_large_blue.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\196003ad29ead2c3ee0fd70b4d807bf4\\res\\drawable-xxhdpi-v4\\messenger_bubble_large_blue.png"
-    },
-    {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_visibility_black_24dp.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-0.6.2.aar\\0dae786466f3fea608d38bb59eca4531\\res\\drawable-xhdpi-v4\\ic_visibility_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_messenger_bubble_large_blue.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\196003ad29ead2c3ee0fd70b4d807bf4\\res\\drawable-xxhdpi-v4\\messenger_bubble_large_blue.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_search_url_text.xml.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\4d5e898b8c767da6f01a71494ca7d95e\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ex2.jpg.flat",
-        "source": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\src\\main\\res\\drawable\\ex2.jpg"
-    },
-    {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_logo_googleg_color_18dp.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-0.6.2.aar\\0dae786466f3fea608d38bb59eca4531\\res\\drawable-xxxhdpi-v4\\logo_googleg_color_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ex2.jpg.flat",
+        "source": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\src\\main\\res\\drawable\\ex2.jpg"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f64f_1f3fe.png.flat",
@@ -112,12 +112,12 @@
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\4d5e898b8c767da6f01a71494ca7d95e\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f3e7.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f3e7.png"
-    },
-    {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f595_1f3ff.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f595_1f3ff.png"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f3e7.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f3e7.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_26ce.png.flat",
@@ -212,12 +212,12 @@
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f42c.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_2699.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_2699.png"
-    },
-    {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_smiley.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-mdpi-v4\\smiley.png"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_2699.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_2699.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_facebook_auth_dialog_cancel_background.xml.flat",
@@ -240,28 +240,28 @@
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f3c7_1f3fd.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f3c9.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f3c9.png"
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_orca_composer_popup_pressed.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-mdpi-v4\\orca_composer_popup_pressed.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f6a0.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f6a0.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_orca_composer_popup_pressed.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-mdpi-v4\\orca_composer_popup_pressed.png"
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f3c9.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f3c9.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_2638.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_2638.png"
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f486_1f3fd.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f486_1f3fd.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\4d5e898b8c767da6f01a71494ca7d95e\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f486_1f3fd.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f486_1f3fd.png"
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_2638.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_2638.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu.xml.flat",
@@ -404,12 +404,12 @@
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-mdpi-v4\\orca_emoji_backspace_front_pressed.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f496.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f496.png"
-    },
-    {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f426.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f426.png"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f496.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f496.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -460,12 +460,12 @@
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\4d5e898b8c767da6f01a71494ca7d95e\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f918_1f3fd.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f918_1f3fd.png"
-    },
-    {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f3a4.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f3a4.png"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f918_1f3fd.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f918_1f3fd.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_facebook.png.flat",
@@ -532,12 +532,12 @@
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_2716.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_emoji_flags.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-hdpi-v4\\emoji_flags.png"
-    },
-    {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\4d5e898b8c767da6f01a71494ca7d95e\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_emoji_flags.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-hdpi-v4\\emoji_flags.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f69c.png.flat",
@@ -560,12 +560,12 @@
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f3de.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f462.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f462.png"
-    },
-    {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_twitter.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-0.6.2.aar\\4127f161c6b1100776421cbc8901eb25\\res\\drawable-xhdpi-v4\\ic_twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f462.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f462.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f601.png.flat",
@@ -672,24 +672,24 @@
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\4d5e898b8c767da6f01a71494ca7d95e\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_2708.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_2708.png"
-    },
-    {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f4ae.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f4ae.png"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_2708.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_2708.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f6ad.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f6ad.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_25b6.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_25b6.png"
-    },
-    {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\4d5e898b8c767da6f01a71494ca7d95e\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_25b6.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_25b6.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com_facebook_button_background.xml.flat",
@@ -720,12 +720,12 @@
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f58a.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f55d.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f55d.png"
-    },
-    {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_com_facebook_favicon_white.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\196003ad29ead2c3ee0fd70b4d807bf4\\res\\drawable-xxhdpi-v4\\com_facebook_favicon_white.png"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f55d.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f55d.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f4a8.png.flat",
@@ -756,12 +756,12 @@
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f40e.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_dark.xml.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\4d5e898b8c767da6f01a71494ca7d95e\\res\\drawable\\abc_list_selector_holo_dark.xml"
-    },
-    {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f6bc.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f6bc.png"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\4d5e898b8c767da6f01a71494ca7d95e\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f479.png.flat",
@@ -780,12 +780,12 @@
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\196003ad29ead2c3ee0fd70b4d807bf4\\res\\drawable-mdpi-v4\\com_facebook_button_icon_white.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_23f9.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_23f9.png"
-    },
-    {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f913.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f913.png"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_23f9.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_23f9.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f44d_1f3fd.png.flat",
@@ -808,20 +808,20 @@
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\196003ad29ead2c3ee0fd70b4d807bf4\\res\\drawable-mdpi-v4\\com_facebook_favicon_white.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f3c3_1f3fb.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f3c3_1f3fb.png"
-    },
-    {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_orca_composer_tab.9.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-mdpi-v4\\orca_composer_tab.9.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_23ef.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_23ef.png"
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f3c3_1f3fb.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f3c3_1f3fb.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
         "source": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_23ef.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_23ef.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f4c6.png.flat",
@@ -840,24 +840,24 @@
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f408.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f47e.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f47e.png"
-    },
-    {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_2734.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_2734.png"
-    },
-    {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_pressed.9.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\1e39f0ccf6977547bf55bf864f98bb12\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\196003ad29ead2c3ee0fd70b4d807bf4\\res\\drawable-mdpi-v4\\com_facebook_tooltip_blue_xout.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_orca_emoji_category_nature.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-hdpi-v4\\orca_emoji_category_nature.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_tooltip_blue_xout.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\196003ad29ead2c3ee0fd70b4d807bf4\\res\\drawable-mdpi-v4\\com_facebook_tooltip_blue_xout.png"
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\1e39f0ccf6977547bf55bf864f98bb12\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_2734.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_2734.png"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f47e.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f47e.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f64c_1f3fb.png.flat",
@@ -872,12 +872,12 @@
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f485_1f3fe.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_0038.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_0038.png"
-    },
-    {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\4d5e898b8c767da6f01a71494ca7d95e\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_0038.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_0038.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f480.png.flat",
@@ -904,16 +904,16 @@
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f6e4.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_2195.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_2195.png"
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f443_1f3fe.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f443_1f3fe.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f5fc.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f5fc.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f443_1f3fe.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f443_1f3fe.png"
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_2195.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_2195.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f350.png.flat",
@@ -940,20 +940,20 @@
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f34d.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f47f.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f47f.png"
-    },
-    {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f40f.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f40f.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f513.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f513.png"
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f47f.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f47f.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f64e_1f3ff.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f64e_1f3ff.png"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f513.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f513.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -1032,20 +1032,20 @@
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_270b_1f3fe.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_270d.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_270d.png"
-    },
-    {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f5fb.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f5fb.png"
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facebook_button.xml.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-0.6.2.aar\\4127f161c6b1100776421cbc8901eb25\\res\\drawable\\facebook_button.xml"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\4d5e898b8c767da6f01a71494ca7d95e\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facebook_button.xml.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-0.6.2.aar\\4127f161c6b1100776421cbc8901eb25\\res\\drawable\\facebook_button.xml"
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f5fb.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f5fb.png"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_270d.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_270d.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f914.png.flat",
@@ -1108,28 +1108,28 @@
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f347.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_0039.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_0039.png"
-    },
-    {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f3c2.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f3c2.png"
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f6b5_1f3ff.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f6b5_1f3ff.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_emoji_people.xml.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable\\selector_emoji_people.xml"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f6b5_1f3ff.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f6b5_1f3ff.png"
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f3c2.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f3c2.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_2603.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_2603.png"
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_0039.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_0039.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f617.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f617.png"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_2603.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_2603.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item.xml.flat",
@@ -1184,12 +1184,12 @@
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f3f5.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f199.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f199.png"
-    },
-    {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ex1.jpg.flat",
         "source": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\src\\main\\res\\drawable\\ex1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f199.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f199.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f49d.png.flat",
@@ -1300,12 +1300,12 @@
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f329.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f529.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f529.png"
-    },
-    {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f49b.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f49b.png"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f529.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f529.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f3f7.png.flat",
@@ -1332,12 +1332,12 @@
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f497.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_23e9.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_23e9.png"
-    },
-    {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cadillac1.jpg.flat",
         "source": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\src\\main\\res\\drawable\\cadillac1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_23e9.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_23e9.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_2796.png.flat",
@@ -1352,12 +1352,12 @@
         "source": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\src\\main\\res\\drawable\\ex3.jpg"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f236.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f236.png"
-    },
-    {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_light_pressed.9.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\1e39f0ccf6977547bf55bf864f98bb12\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f236.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f236.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_264c.png.flat",
@@ -1460,56 +1460,56 @@
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f471_1f3fe.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f477_1f3fe.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f477_1f3fe.png"
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_view_list_nav_layout.xml.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\4d5e898b8c767da6f01a71494ca7d95e\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f304.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f304.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_view_list_nav_layout.xml.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\4d5e898b8c767da6f01a71494ca7d95e\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f495.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f495.png"
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f477_1f3fe.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f477_1f3fe.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\4d5e898b8c767da6f01a71494ca7d95e\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f349.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f349.png"
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f495.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f495.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f3cb_1f3fd.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f3cb_1f3fd.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\4d5e898b8c767da6f01a71494ca7d95e\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f349.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f349.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f5a5.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f5a5.png"
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\4d5e898b8c767da6f01a71494ca7d95e\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_0037.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_0037.png"
     },
     {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f5a5.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f5a5.png"
+    },
+    {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f3ab.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f3ab.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f3a5.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f3a5.png"
-    },
-    {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\4d5e898b8c767da6f01a71494ca7d95e\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f3a5.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f3a5.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f558.png.flat",
@@ -1548,12 +1548,12 @@
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-0.6.2.aar\\4127f161c6b1100776421cbc8901eb25\\res\\drawable-xxhdpi-v4\\ic_google.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_0030.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_0030.png"
-    },
-    {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_dark_pressed.9.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\1e39f0ccf6977547bf55bf864f98bb12\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_0030.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_0030.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -1632,12 +1632,12 @@
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-0.6.2.aar\\4127f161c6b1100776421cbc8901eb25\\res\\drawable-xxhdpi-v4\\ic_twitter.png"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_disabled.9.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\1e39f0ccf6977547bf55bf864f98bb12\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
-    },
-    {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f504.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f504.png"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_disabled.9.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\1e39f0ccf6977547bf55bf864f98bb12\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f35e.png.flat",
@@ -1784,12 +1784,12 @@
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\4d5e898b8c767da6f01a71494ca7d95e\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f50b.png.flat",
-        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f50b.png"
-    },
-    {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f47c_1f3fc.png.flat",
         "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f47c_1f3fc.png"
+    },
+    {
+        "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4_emoji_1f50b.png.flat",
+        "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\SuperNova-Emoji-1.0.aar\\18423d828fb64de6e8dd149395653c15\\res\\drawable-nodpi-v4\\emoji_1f50b.png"
     },
     {
         "merged": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_com_facebook_button_icon_blue.png.flat",

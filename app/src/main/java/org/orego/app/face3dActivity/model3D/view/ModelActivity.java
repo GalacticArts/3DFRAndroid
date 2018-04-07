@@ -18,6 +18,9 @@ import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.Toast;
 
+import com.google.inject.Guice;
+import com.google.inject.Injector;
+
 import org.orego.app.face3dActivity.model3D.services.SceneLoader;
 import org.orego.app.face3dActivity.util.Utils;
 import org.orego.app.face3dActivity.util.content.ContentUtils;
@@ -49,11 +52,14 @@ public final class ModelActivity extends Activity {
 
     private Handler handler;
 
-
     @SuppressLint("ResourceAsColor")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        final Injector injector = Guice.createInjector();
+        System.out.println(injector.toString());
+
 
         // Try to get input parameters
         final Bundle b = getIntent().getExtras();
@@ -152,7 +158,8 @@ public final class ModelActivity extends Activity {
     }
 
     void sceneInit() {
-        scene = new SceneLoader(this);
+        scene = new SceneLoader();
+        scene.installActivity(this);
         scene.init();
     }
 
