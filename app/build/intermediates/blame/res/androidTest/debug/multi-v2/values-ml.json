@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\android-3D-model-viewer-master\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ml\\values-ml.xml",
+            "outputFile": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ml\\values-ml.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ilyad\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\7ca2ab857f655800a657d16576399de2\\res\\values-ml\\values-ml.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,253,379,498,593,667,744,811,887,966,1070,1154,1238,1333,1443,1512,1580,1742",
-                        "endColumns": "197,125,118,94,73,76,66,75,78,103,83,83,94,109,68,67,161,64",
-                        "endOffsets": "248,374,493,588,662,739,806,882,961,1065,1149,1233,1328,1438,1507,1575,1737,1802"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,36",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,303,429,548,643,717,794,861,937,1016,1120,1204,1288,1383,1493,1562,1630,4507",
-                        "endColumns": "197,125,118,94,73,76,66,75,78,103,83,83,94,109,68,67,161,64",
-                        "endOffsets": "298,424,543,638,712,789,856,932,1011,1115,1199,1283,1378,1488,1557,1625,1787,4567"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\ilyad\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-9.8.0.aar\\35d590e67a8dc5b29cec411eeae11f68\\res\\values-ml\\values.xml",
+                    "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-9.8.0.aar\\2c36f8469828f16c9de71a3c4ca90e03\\res\\values-ml\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -38,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ilyad\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\67059d125d603139337711f8eeab7ea9\\res\\values-ml\\values.xml",
+                    "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\196003ad29ead2c3ee0fd70b4d807bf4\\res\\values-ml\\values-ml.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,253,379,498,593,667,744,811,887,966,1070,1154,1238,1333,1443,1512,1580,1742",
+                        "endColumns": "197,125,118,94,73,76,66,75,78,103,83,83,94,109,68,67,161,64",
+                        "endOffsets": "248,374,493,588,662,739,806,882,961,1065,1149,1233,1328,1438,1507,1575,1737,1802"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,303,429,548,643,717,794,861,937,1016,1120,1204,1288,1383,1493,1562,1630,4507",
+                        "endColumns": "197,125,118,94,73,76,66,75,78,103,83,83,94,109,68,67,161,64",
+                        "endOffsets": "298,424,543,638,712,789,856,932,1011,1115,1199,1283,1378,1488,1557,1625,1787,4567"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\1e39f0ccf6977547bf55bf864f98bb12\\res\\values-ml\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",

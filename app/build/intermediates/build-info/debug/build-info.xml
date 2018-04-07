@@ -2,107 +2,103 @@
 <instant-run
     abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="23"
-    build-mode="COLD"
+    build-mode="FULL"
     density="xhdpi"
     format="10"
-    ir-eligibility="FIELD_REMOVED"
     plugin-version="3.0.1"
-    timestamp="1523115899686"
-    token="2754251712739254391"
-    verifier="COLD_SWAP_REQUESTED" >
+    timestamp="1523123001140"
+    token="9108093360116184161"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="718" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="44" />
+        duration="350" />
     <task
         name="verifier"
-        duration="33" />
+        duration="731" />
 
     <artifact
-        location="D:\android-3D-model-viewer-master\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        location="C:\Users\StarKRE\StudioProjects\HeadRendering\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
         type="SPLIT" />
     <artifact
-        location="D:\android-3D-model-viewer-master\app\build\outputs\apk\debug\app-debug.apk"
+        location="C:\Users\StarKRE\StudioProjects\HeadRendering\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\StarKRE\StudioProjects\HeadRendering\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\StarKRE\StudioProjects\HeadRendering\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\StarKRE\StudioProjects\HeadRendering\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\StarKRE\StudioProjects\HeadRendering\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\StarKRE\StudioProjects\HeadRendering\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\StarKRE\StudioProjects\HeadRendering\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\StarKRE\StudioProjects\HeadRendering\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\StarKRE\StudioProjects\HeadRendering\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\StarKRE\StudioProjects\HeadRendering\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\StarKRE\StudioProjects\HeadRendering\app\build\outputs\apk\debug\app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1523114446514"
+        timestamp="1523123001140"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="D:\android-3D-model-viewer-master\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="C:\Users\StarKRE\StudioProjects\HeadRendering\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="D:\android-3D-model-viewer-master\app\build\outputs\apk\debug\app-debug.apk"
-            type="SPLIT_MAIN" />
-        <artifact
-            location="D:\android-3D-model-viewer-master\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="C:\Users\StarKRE\StudioProjects\HeadRendering\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="D:\android-3D-model-viewer-master\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            location="C:\Users\StarKRE\StudioProjects\HeadRendering\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="D:\android-3D-model-viewer-master\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="C:\Users\StarKRE\StudioProjects\HeadRendering\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="D:\android-3D-model-viewer-master\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="C:\Users\StarKRE\StudioProjects\HeadRendering\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="D:\android-3D-model-viewer-master\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="C:\Users\StarKRE\StudioProjects\HeadRendering\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="D:\android-3D-model-viewer-master\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="C:\Users\StarKRE\StudioProjects\HeadRendering\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="D:\android-3D-model-viewer-master\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="C:\Users\StarKRE\StudioProjects\HeadRendering\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="D:\android-3D-model-viewer-master\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="C:\Users\StarKRE\StudioProjects\HeadRendering\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="D:\android-3D-model-viewer-master\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="C:\Users\StarKRE\StudioProjects\HeadRendering\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="D:\android-3D-model-viewer-master\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="COMPATIBLE"
-        timestamp="1523115253247"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="D:\android-3D-model-viewer-master\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="COMPATIBLE"
-        timestamp="1523115777036"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="D:\android-3D-model-viewer-master\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="C:\Users\StarKRE\StudioProjects\HeadRendering\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="D:\android-3D-model-viewer-master\app\build\outputs\apk\debug\app-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="FIELD_REMOVED"
-        timestamp="1523115899686"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="D:\android-3D-model-viewer-master\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\android-3D-model-viewer-master\app\build\outputs\apk\debug\app-debug.apk"
+            location="C:\Users\StarKRE\StudioProjects\HeadRendering\app\build\outputs\apk\debug\app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
 

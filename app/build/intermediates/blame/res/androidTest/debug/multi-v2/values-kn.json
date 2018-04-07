@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\android-3D-model-viewer-master\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-kn\\values-kn.xml",
+            "outputFile": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-kn\\values-kn.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ilyad\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-9.8.0.aar\\35d590e67a8dc5b29cec411eeae11f68\\res\\values-kn\\values.xml",
+                    "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-9.8.0.aar\\2c36f8469828f16c9de71a3c4ca90e03\\res\\values-kn\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ilyad\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\7ca2ab857f655800a657d16576399de2\\res\\values-kn\\values-kn.xml",
+                    "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\196003ad29ead2c3ee0fd70b4d807bf4\\res\\values-kn\\values-kn.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ilyad\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\67059d125d603139337711f8eeab7ea9\\res\\values-kn\\values.xml",
+                    "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\1e39f0ccf6977547bf55bf864f98bb12\\res\\values-kn\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",

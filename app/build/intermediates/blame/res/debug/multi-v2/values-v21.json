@@ -1,29 +1,29 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\android-3D-model-viewer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ilyad\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.1.0.aar\\f766f0cdae0cccbc97c6d82d8d87ffae\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-0.6.2.aar\\0dae786466f3fea608d38bb59eca4531\\res\\values-v21\\values-v21.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "4",
-                        "endColumns": "12",
-                        "endOffsets": "248"
+                        "startLines": "2,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,893",
+                        "endLines": "15,33",
+                        "endColumns": "12,12",
+                        "endOffsets": "888,1928"
                     },
                     "to": {
-                        "startLines": "319",
-                        "startColumns": "4",
-                        "startOffsets": "22845",
-                        "endLines": "321",
-                        "endColumns": "12",
-                        "endOffsets": "23038"
+                        "startLines": "225,239",
+                        "startColumns": "4,4",
+                        "startOffsets": "16916,17754",
+                        "endLines": "238,256",
+                        "endColumns": "12,12",
+                        "endOffsets": "17749,18789"
                     }
                 },
                 {
-                    "source": "C:\\Users\\ilyad\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\87123dc693e6be952c5359a5ff3ecfe0\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\4d5e898b8c767da6f01a71494ca7d95e\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,23,24,25,26,28,30,31,32,33,34,36,38,40,42,44,46,47,52,54,56,57,58,60,62,63,64,65,66,67,111,114,158,161,164,166,168,170,173,175,178,179,180,183,184,185,186,187,188,191,192,194,196,198,200,204,206,207,208,209,211,215,217,219,220,221,222,223,225,226,227,237,238,239,251,263,264,265,268,271,272,275,276,279,282",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -42,22 +42,22 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ilyad\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-ui-auth-0.6.2.aar\\d66f0b7af1e895b39b7d252729ec50b8\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\design-25.1.0.aar\\f8b1a978534cf2acb60780d41d7323df\\res\\values-v21\\values-v21.xml",
                     "from": {
-                        "startLines": "2,16",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,893",
-                        "endLines": "15,33",
-                        "endColumns": "12,12",
-                        "endOffsets": "888,1928"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "248"
                     },
                     "to": {
-                        "startLines": "225,239",
-                        "startColumns": "4,4",
-                        "startOffsets": "16916,17754",
-                        "endLines": "238,256",
-                        "endColumns": "12,12",
-                        "endOffsets": "17749,18789"
+                        "startLines": "319",
+                        "startColumns": "4",
+                        "startOffsets": "22845",
+                        "endLines": "321",
+                        "endColumns": "12",
+                        "endOffsets": "23038"
                     }
                 }
             ]

@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\android-3D-model-viewer-master\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ms\\values-ms.xml",
+            "outputFile": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ms\\values-ms.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ilyad\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\67059d125d603139337711f8eeab7ea9\\res\\values-ms\\values.xml",
+                    "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\196003ad29ead2c3ee0fd70b4d807bf4\\res\\values-ms\\values-ms.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,172,295,390,457,525,587,658,733,829,906,983,1073,1182,1247,1313,1452",
+                        "endColumns": "116,122,94,66,67,61,70,74,95,76,76,89,108,64,65,138,61",
+                        "endOffsets": "167,290,385,452,520,582,653,728,824,901,978,1068,1177,1242,1308,1447,1509"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,35",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,222,345,440,507,575,637,708,783,879,956,1033,1123,1232,1297,1363,4197",
+                        "endColumns": "116,122,94,66,67,61,70,74,95,76,76,89,108,64,65,138,61",
+                        "endOffsets": "217,340,435,502,570,632,703,778,874,951,1028,1118,1227,1292,1358,1497,4254"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.8.0.aar\\1e39f0ccf6977547bf55bf864f98bb12\\res\\values-ms\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -21,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ilyad\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-9.8.0.aar\\35d590e67a8dc5b29cec411eeae11f68\\res\\values-ms\\values.xml",
+                    "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-9.8.0.aar\\2c36f8469828f16c9de71a3c4ca90e03\\res\\values-ms\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -35,23 +52,6 @@
                         "startOffsets": "2556",
                         "endColumns": "204",
                         "endOffsets": "2756"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\ilyad\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-android-sdk-4.14.1.aar\\7ca2ab857f655800a657d16576399de2\\res\\values-ms\\values-ms.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,172,295,390,457,525,587,658,733,829,906,983,1073,1182,1247,1313,1452",
-                        "endColumns": "116,122,94,66,67,61,70,74,95,76,76,89,108,64,65,138,61",
-                        "endOffsets": "167,290,385,452,520,582,653,728,824,901,978,1068,1177,1242,1308,1447,1509"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,35",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,222,345,440,507,575,637,708,783,879,956,1033,1123,1232,1297,1363,4197",
-                        "endColumns": "116,122,94,66,67,61,70,74,95,76,76,89,108,64,65,138,61",
-                        "endOffsets": "217,340,435,502,570,632,703,778,874,951,1028,1118,1227,1292,1358,1497,4254"
                     }
                 }
             ]

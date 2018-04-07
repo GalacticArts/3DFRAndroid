@@ -1,17 +1,17 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\android-3D-model-viewer-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "outputFile": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
             "map": [
                 {
-                    "source": "D:\\android-3D-model-viewer-master\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "source": "C:\\Users\\StarKRE\\StudioProjects\\HeadRendering\\app\\src\\main\\res\\values-v14\\styles.xml",
                     "from": {
                         "startLines": "7",
                         "startColumns": "4",
-                        "startOffsets": "225",
+                        "startOffsets": "227",
                         "endLines": "9",
                         "endColumns": "12",
-                        "endOffsets": "373"
+                        "endOffsets": "375"
                     },
                     "to": {
                         "startLines": "2",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ilyad\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\87123dc693e6be952c5359a5ff3ecfe0\\res\\values-v14\\values-v14.xml",
+                    "source": "C:\\Users\\StarKRE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\4d5e898b8c767da6f01a71494ca7d95e\\res\\values-v14\\values-v14.xml",
                     "from": {
                         "startLines": "2,7,8,9,15,21,22,23,24,25,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
